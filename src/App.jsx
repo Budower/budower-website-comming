@@ -77,6 +77,16 @@ export default function App() {
           >
             Coming Soon
           </motion.p>
+          {/* Contact */}
+          <motion.p
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.45, duration: 0.6 }}
+            className="mt-2 text-sm sm:text-base md:text-lg text-white/80"
+          >
+            Kontakt: <a href="mailto:office@budower.com" className="underline">office@budower.com</a>
+          </motion.p>
+
         </div>
       </div>
 
