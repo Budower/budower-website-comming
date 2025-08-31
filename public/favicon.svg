@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#000"/>
+  <path d="M38 23h-1.2A12.8 12.8 0 0 0 24 10.2 12.8 12.8 0 0 0 11.2 23H10a3 3 0 0 0-3 3v4a3 3 0 0 0 3 3h28a3 3 0 0 0 3-3v-4a3 3 0 0 0-3-3zM16 23a8 8 0 0 1 16 0H16z" fill="#22c55e"/>
+  <text x="24" y="42" text-anchor="middle" font-family="Inter, system-ui, Arial" font-size="8" fill="#fff" opacity="0.8">BUDOWER</text>
+</svg>
